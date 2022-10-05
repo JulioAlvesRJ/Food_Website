@@ -53,6 +53,10 @@ Follow the steps below
 
 This is a project developed based on my skills in web development. This project is responsive so you can open and use on mobile phones with no problem, and i use some cool features to make this site look more interesting and great for the client. 
 
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
 ---
 
 <p align="center">Made by Júlio Alves</p>
